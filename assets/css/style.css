@@ -1,0 +1,161 @@
+*{
+    background-color: black;
+    margin: auto;
+}
+
+.fabiola{ 
+  color: beige;
+  font-family: "Playwrite IT Moderna", cursive;
+  font-optical-sizing:auto;
+  font-weight: 300px;
+  font-style: normal;
+  font-size: 45px;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+.navbar-text{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 50px;
+}
+
+
+.icono{
+  color: beige;
+  font-family: "Playwrite IT Moderna", cursive;
+  font-optical-sizing:auto;
+  font-weight: 300px;
+  font-style: normal;
+  font-size: 20px;
+  clear: left;
+  text-align:center;
+  vertical-align:middle;
+  line-height: 10px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.iconocantainer{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    position:absolute; 
+
+}
+.fex{
+    
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap:40px;
+
+} 
+.box{
+    display: flex;
+    justify-content: space-between 20px;
+    color: beige;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 20px;
+    margin: 80px 50px;
+}
+.proyectos{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    gap:40px;
+    color: beige;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 15px;
+}
+.card-title{
+    font-size: 20px;
+    color:coral;
+    margin-top: 30px;
+}
+.card-text{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 30px;
+   
+}
+.card-footer{
+    margin-bottom: 30px;
+}
+
+.proyectoshtml{
+    color:coral;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.educacion{
+    color:coral;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-top: 60px;
+}
+.list-group{
+    color: beige;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 15px;
+    text-align:start;
+}
+.h3{
+    color:coral;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 20px;
+    text-align: start;
+}
+.ideomas{
+    color: coral;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 20px;
+    text-align: start;
+}
+
+.footer{
+    color: beige;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 40px;
+}
